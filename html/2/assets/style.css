@@ -100,7 +100,7 @@ span.inv {
 	font-family: Camcorder_MS_INV;
 }
 
-@media only screen and (max-device-width: 480px) {
+/*@media only screen and (max-device-width: 480px) {
 
 body {
 	background: #1818d6;
@@ -121,4 +121,4 @@ a:visited {
 }
 .blink {
 	font-size: large;
-}}
+}}*/
