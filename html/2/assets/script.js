@@ -2,7 +2,7 @@
 
 if ($(window).width() >= 480) {
 function changeImg(imgNumber)	{
-			var myImages = ["assets/bg1.jpg", "assets/bg2.jpg", "assets/bg3.jpg", "assets/bg4.jpg", "assets/bg5.jpg", "assets/bg6.jpg", "assets/bg7.jpg", "assets/bg9.jpg", "assets/bg10.jpg", "assets/bg11.jpg"]; 
+			var myImages = ["bg1.jpg", "bg2.jpg", "bg3.jpg", "bg4.jpg", "bg5.jpg", "bg6.jpg", "bg7.jpg", "bg9.jpg", "bg10.jpg", "bg11.jpg"]; 
 			var imgShown = document.body.style.backgroundImage;
 			var newImgNumber =Math.floor(Math.random()*myImages.length);
 			document.body.style.backgroundImage = 'url('+myImages[newImgNumber]+')';

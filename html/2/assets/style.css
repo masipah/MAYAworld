@@ -1,6 +1,6 @@
-@import url("/webfonts/CamcorderREG/stylesheet.css");
-@import url("/webfonts/CamcorderINV/stylesheet.css");
-@import url("/webfonts/Camcorder_MS_INV/stylesheet.css");
+@import url("../webfonts/CamcorderREG/stylesheet.css");
+@import url("../webfonts/CamcorderINV/stylesheet.css");
+@import url("../webfonts/Camcorder_MS_INV/stylesheet.css");
 @-webkit-keyframes blinker {from{opacity:1.0;}to{opacity:0.0;}}
 @-moz-keyframes blinker {from{opacity:1.0;}to{opacity:0.0;}}
 @keyframes blinker {from{opacity:1.0;}to{opacity:0.0;}}
