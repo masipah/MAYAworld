@@ -1,0 +1,8 @@
+@font-face {
+	font-family: 'Camcorder_MS_INV';
+	src: url('camcorder_ms_inv-webfont.eot');
+	src: url('camcorder_ms_inv-webfont.eot?#iefix') format('embedded-opentype'),
+		url('camcorder_ms_inv-webfont.woff') format('woff'),
+		url('camcorder_ms_inv-webfont.ttf') format('truetype'),
+		url('camcorder_ms_inv-webfont.svg') format('svg');
+}
