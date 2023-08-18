@@ -1,0 +1,46 @@
+@import url(http://fonts.googleapis.com/css?family=Source+Code+Pro);
+@keyframes blink {
+	from,to {
+	opacity: 1;
+}
+ 50% {
+    opacity: 0;
+ }
+
+}
+@-moz-keyframes blink {
+	from,to {
+	opacity: 1;
+}
+ 50% {
+    opacity: 0;
+ }
+
+}
+@-webkit-keyframes blink {
+	from,to {
+	opacity: 1;
+}
+ 50% {
+    opacity: 0;
+ }
+
+}
+body {
+	margin: 0;
+	background: #000000;
+	font-family: 'Source Code Pro' ;
+	color: #00ff00;
+	font-size: 2vw;
+}
+#terminal {
+	width: 50vw;
+	height: 50vh;
+	margin: 25vh auto 0 25vw;
+	vertical-align: middle;
+}
+#typed-cursor {
+	-webkit-animation: 1s blink step-end infinite;
+	-moz-animation: 1s blink step-end infinite;
+	animation: 1s blink step-end infinite;
+}
