@@ -1,0 +1,72 @@
+@import url("/assets/webfont/CamcorderREG/stylesheet.css");
+
+body {
+	margin: 0 0 0 0;
+	background-color: #000000;
+	background-repeat: repeat;
+	background-position: center;
+	background-attachment: scroll;
+}
+
+p {
+	font-family: 'CamcorderREG';
+	color: #FFFFFF;
+	font-size: 2em;
+	text-decoration: none;
+	margin-top: 0;
+	display: block;
+}
+
+a:visited,
+a:link {
+	color: #FFFFFF;
+	text-decoration: none;
+}
+
+#top {
+	z-index: 1;
+	position: absolute;
+}
+
+#v {
+	position: fixed;
+	top: 50%;
+	left: 50%;
+	width: 370px;
+	height: 278px;
+	margin-top: -139px;
+	margin-left: -185px;
+	z-index: 2;
+}
+
+#no_trans {
+	position: fixed;
+	top: 50%;
+	left: 50%;
+	width: 362px;
+	height: 270px;
+	margin-top: -135px;
+	margin-left: -181px;
+	z-index: 1;
+}
+
+#television {
+	position: fixed;
+	top: 50%;
+	left: 50%;
+	width: 500px;
+	height: 500px;
+	margin-top: -250px;
+	margin-left: -250px;
+	z-index: 4;
+}
+
+#c {
+	position: absolute;
+	top: 0;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	width: 100%;
+	height: 100%;
+}
