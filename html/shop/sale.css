@@ -22,7 +22,7 @@ a:active {
   color: #FF5F1F;
 }
 
-#雪月華 {
+#world {
   position: absolute;
   right: 50%;
   top: 50%;
@@ -35,7 +35,7 @@ a:active {
   height: 355px;
 }
 
-#雪月華 div {
+#world div {
   width: 100%;
   height: 14px;
   counter-reset: line-numbering;
@@ -50,161 +50,161 @@ a:active {
   color: #ffffff
 }
 
-#雪月華 div:nth-child(1):before {
+#world div:nth-child(1):before {
   content: "";
   animation-name: row0;
   animation-duration: 5.256s;
   animation-iteration-count: infinite;
 }
 
-#雪月華 div:nth-child(2):before {
+#world div:nth-child(2):before {
   content: "";
   animation-name: row1;
   animation-duration: 5.256s;
   animation-iteration-count: infinite;
 }
 
-#雪月華 div:nth-child(3):before {
+#world div:nth-child(3):before {
   content: "";
   animation-name: row2;
   animation-duration: 5.256s;
   animation-iteration-count: infinite;
 }
 
-#雪月華 div:nth-child(4):before {
+#world div:nth-child(4):before {
   content: "";
   animation-name: row3;
   animation-duration: 5.256s;
   animation-iteration-count: infinite;
 }
 
-#雪月華 div:nth-child(5):before {
+#world div:nth-child(5):before {
   content: "";
   animation-name: row4;
   animation-duration: 5.256s;
   animation-iteration-count: infinite;
 }
 
-#雪月華 div:nth-child(6):before {
+#world div:nth-child(6):before {
   content: "";
   animation-name: row5;
   animation-duration: 5.256s;
   animation-iteration-count: infinite;
 }
 
-#雪月華 div:nth-child(7):before {
+#world div:nth-child(7):before {
   content: "";
   animation-name: row6;
   animation-duration: 5.256s;
   animation-iteration-count: infinite;
 }
 
-#雪月華 div:nth-child(8):before {
+#world div:nth-child(8):before {
   content: "";
   animation-name: row7;
   animation-duration: 5.256s;
   animation-iteration-count: infinite;
 }
 
-#雪月華 div:nth-child(9):before {
+#world div:nth-child(9):before {
   content: "";
   animation-name: row8;
   animation-duration: 5.256s;
   animation-iteration-count: infinite;
 }
 
-#雪月華 div:nth-child(10):before {
+#world div:nth-child(10):before {
   content: "";
   animation-name: row9;
   animation-duration: 5.256s;
   animation-iteration-count: infinite;
 }
 
-#雪月華 div:nth-child(11):before {
+#world div:nth-child(11):before {
   content: "";
   animation-name: row10;
   animation-duration: 5.256s;
   animation-iteration-count: infinite;
 }
 
-#雪月華 div:nth-child(12):before {
+#world div:nth-child(12):before {
   content: "";
   animation-name: row11;
   animation-duration: 5.256s;
   animation-iteration-count: infinite;
 }
 
-#雪月華 div:nth-child(13):before {
+#world div:nth-child(13):before {
   content: "";
   animation-name: row12;
   animation-duration: 5.256s;
   animation-iteration-count: infinite;
 }
 
-#雪月華 div:nth-child(14):before {
+#world div:nth-child(14):before {
   content: "";
   animation-name: row13;
   animation-duration: 5.256s;
   animation-iteration-count: infinite;
 }
 
-#雪月華 div:nth-child(15):before {
+#world div:nth-child(15):before {
   content: "";
   animation-name: row14;
   animation-duration: 5.256s;
   animation-iteration-count: infinite;
 }
 
-#雪月華 div:nth-child(16):before {
+#world div:nth-child(16):before {
   content: "";
   animation-name: row15;
   animation-duration: 5.256s;
   animation-iteration-count: infinite;
 }
 
-#雪月華 div:nth-child(17):before {
+#world div:nth-child(17):before {
   content: "";
   animation-name: row16;
   animation-duration: 5.256s;
   animation-iteration-count: infinite;
 }
 
-#雪月華 div:nth-child(18):before {
+#world div:nth-child(18):before {
   content: "";
   animation-name: row17;
   animation-duration: 5.256s;
   animation-iteration-count: infinite;
 }
 
-#雪月華 div:nth-child(19):before {
+#world div:nth-child(19):before {
   content: "";
   animation-name: row18;
   animation-duration: 5.256s;
   animation-iteration-count: infinite;
 }
 
-#雪月華 div:nth-child(20):before {
+#world div:nth-child(20):before {
   content: "";
   animation-name: row19;
   animation-duration: 5.256s;
   animation-iteration-count: infinite;
 }
 
-#雪月華 div:nth-child(21):before {
+#world div:nth-child(21):before {
   content: "";
   animation-name: row20;
   animation-duration: 5.256s;
   animation-iteration-count: infinite;
 }
 
-#雪月華 div:nth-child(22):before {
+#world div:nth-child(22):before {
   content: "";
   animation-name: row21;
   animation-duration: 5.256s;
   animation-iteration-count: infinite;
 }
 
-#雪月華 div:nth-child(23):before {
+#world div:nth-child(23):before {
   content: "";
   animation-name: row22;
   animation-duration: 5.256s;
