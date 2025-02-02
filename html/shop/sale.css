@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro&display=swap');
 
 body {
-  background: rgb(0, 0, 0);
+  background: rgb(255, 255, 255);
 }
 
 #ghost {
@@ -28,8 +28,8 @@ a:active {
   top: 50%;
   transform: translate(50%, -50%);
   font-family: 'Source Code Pro', monospace;
-  background-color: #000;
-  color: #fff;
+  background-color: #fff;
+  color: #000;
   font-size: 10pt;
   width: 618px;
   height: 355px;
@@ -883,15 +883,15 @@ a:active {
   }
 
   59.931506849315% {
-    content: "                               $$$$$$$$$$$$$$$$$$$                             ";
+    content: "                               $$WORLD$$$$WORLD$$$                             ";
   }
 
   60.882800608828% {
-    content: "                              $$$$$$$$$$$$$$$$$$$$$                            ";
+    content: "                              $WORLD$$$$WORLD$$$$$$                            ";
   }
 
   61.834094368341% {
-    content: "                             $$$$$$$$$$$$$$$$$$$$$$                            ";
+    content: "                             $WORLD$WORLD$$WORLD$$$                            ";
   }
 
   62.785388127854% {
